@@ -1,0 +1,11 @@
+{
+  "name": "generator-combinator",
+  "version": "0.0.1",
+  "description": "A JavaScript generator combinator inspired by arcsecond (parser combinator)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Rapo",
+  "license": "MIT"
+}
